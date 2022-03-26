@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "R. Miles McCain"
+title = "Daniel Longo"
 pygmentsUseClasses = true
 
 [markup.goldmark.renderer]
@@ -10,23 +10,16 @@ unsafe = true
 tag = "tags"
 
 [[menu.main]]
-name = "Portfolio"
-url = "/portfolio/"
+name = "Projects"
+url = "/projects/"
 weight = 1
 [menu.main.params]
     style = "critical"
 
 [[menu.main]]
-name = "Posts"
-url = "/posts/"
+name = "Experience"
+url = "/experience/"
 weight = 2
-[menu.main.params]
-    style = "warning"
-
-[[menu.main]]
-name = "Cool"
-url = "/cool/"
-weight = 3
 [menu.main.params]
     style = "info"
 
@@ -36,3 +29,10 @@ url = "/letter/"
 weight = 4
 [menu.main.params]
     style = "positive"
+
+[[menu.main]]
+name = "Posts"
+url = "/posts/"
+weight = 3
+[menu.main.params]
+    style = "warning"

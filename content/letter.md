@@ -3,17 +3,17 @@ title: "Letter"
 subtitle: ""
 ---
 
-Every once in awhile, I'll be so excited about something that I'll want to share it with you, too. This might be a new project, something I've come across, or (rarely) a new post. I expect to send a letter roughly once a month or less; I certainly won't be crowding up your inbox.
+Every once in awhile, I'll be so excited about something that I'll want to share it with you, too. This might be a new project, something I've come across, or (rarely) a new post. I expect to send a letter roughly once a quarter or less; I certainly won't be crowding up your inbox.
 
-If this is something you're interested in, sign up using the form below. If an email newsletter isn't your style, you can also follow me on [Twitter](https://twitter.com/milesmccain/) or subscribe via [RSS](/index.xml).
+If this is something you're interested in, sign up using the form below.
 
 <hr class="sep h-1">
 <div class="aside">
     <form
-        action="https://buttondown.email/api/emails/embed-subscribe/milesmccain"
+        action="https://buttondown.email/api/emails/embed-subscribe/longo"
         method="post"
         target="popupwindow"
-        onsubmit="window.open('https://buttondown.email/milesmccain', 'popupwindow')"
+        onsubmit="window.open('https://buttondown.email/longo', 'popupwindow')"
         class="embeddable-buttondown-form"
     >
     <label for="bd-email" class="label">Enter your email</label>
@@ -24,4 +24,4 @@ If this is something you're interested in, sign up using the form below. If an e
 </div>
 <hr class="sep h-1">
 
-If the subscription form above doesn't work, you can also join in a [new page](https://buttondown.email/milesmccain).
+If the subscription form above doesn't work, you can also join in a [new page](https://buttondown.email/longo).

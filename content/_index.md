@@ -1,25 +1,30 @@
 ---
-supertitle: R. Miles McCain | About, contact, and portfolio
-title: Hey, I'm Miles.
-description: I enjoy designing, breaking, and studying systems. Working on
-  trust and safety, privacy, tech policy, and positive computing.
+supertitle:  Daniel Longo | About
+title: Hey, I'm Daniel.
+description: I'm a technical undergrad with a passion for building products and leveraging ML.
 url: /
 draft: false
 ---
 
-I have a strong technical background and a passion for digital safety and governance. I'm especially interested in tech policy, trust & safety, cybersecurity, digital infrastructure, privacy engineering, OSINT, artificial intelligence, and open source software. My projects, research, and commentary have appeared in several outlets including the *Washington Post*, the *New York Times*, *NBC News*, *TIME*, *Foreign Affairs*, Brookings *TechStream*, and the *Nightly News* with Lester Holt. I'm an undergraduate at Stanford.
+I'm a technical undergrad with a passion for building products and leveraging ML. I'm especially interested in edtech and language based tasks.  
 
-Some of the projects I'm most proud of are [PrivacySpy](https://privacyspy.org), [Shynet](https://github.com/milesmcc/shynet), [PolitiTweet](https://polititweet.org), my work at the [Stanford Internet Observatory](https://io.stanford.edu), and [a17t](https://a17t.miles.land). I teach [CS 106S](http://web.stanford.edu/class/cs106s/) at Stanford, I worked on cyber policy for a [2020 presidential campaign](/portfolio/politics), I'm a non-resident undergraduate fellow at the Cornell [Tech Policy Lab](https://tpl.as.cornell.edu), and I'm an alum of the [Recurse Center](https://www.recurse.com/scout/click?t=e62336f0f378bcf03a96d441d015db88).
+In the past, I've built learning tools used by over 50k students and have developed ML models in the healthcare setting.    
 
-And finally, for the obligatory apostrophe soup: PA &rsquo;19, [RC S1 &rsquo;20](https://www.recurse.com/scout/click?t=e62336f0f378bcf03a96d441d015db88), [Stanford &rsquo;24](https://stanford.edu/~mccain/). More details are in my [portfolio](/portfolio/).
-
+You can find what I've been working on in [projects](/projects/) and where I've been working in [experience](/experience/).
 
 ### Currently
 
-I'm currently at Stanford, where I'm finally taking classes in-person. I'm also working at the Stanford Internet Observatory.
+I'm currently at Stanford, where I'm studying Symbolic Systems. I'm also in Stanford's latest [Launchpad](https://www.launchpad.stanford.edu/) cohort. [Yash](https://yashpatil.me/) and I are building [Rinc.ai](https://rinc.ai)-- content moderation tools for small to medium-sized businesses. 
+
+### Skills & Tools
+
+My favorite programming languages are *Python, JavaScript, Java, C++, and C*.    
+My go to ML and data tools include *Pytorch, Tensorflow, and Numpy*.  
+When I'm buidling webapps I often use *React, Ant.design, Flask, FastAPI, Redis, and Postgres*.     
+And Lastly, when I develop and deploy *Git, Docker, AWS, GCP, and Firebase*.  
 
 ### Contact
 
-You can email me at [hey@miles.land](mailto:hey@miles.land). On GitHub, I am [milesmcc](https://github.com/milesmcc); this is where most of my projects live. On Twitter, I am [@MilesMcCain](https://twitter.com/MilesMcCain), but I don't post frequently. You can also find me on [HN](https://news.ycombinator.com/user?id=epoch_100), [Reddit](https://reddit.com/u/epoch_100), and [Lobsters](https://lobste.rs/u/rmrm). My PGPs are he/him/his.
+You can email me at daniel.longo@stanford.edu. On GitHub, my username is [daniellongo](https://github.com/daniellongo). On Twitter, my handle is [@danieldlongo](https://twitter.com/danieldlongo) though I seldom post.  
 
-Need help with one of my open source projects? Want to chat about safety, privacy, security, or something else? Stop by my <a href="/officehours">office hours</a>.
+[comment]: <> (If you're looking for help on a project, you can reach me at longo@contrarycap.com.)

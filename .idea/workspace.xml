@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7977a302-db5d-4708-b61a-bd909a28f43a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/content/experience/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/experience/mobius.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/experience/nc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/experience/pharmatrophix.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/experience/stanford-bds.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/experience/stanford.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/experience/tutor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/experience/woodside.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/experience/yogurt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/cs.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/posts/sample.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/3d.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/TextAssign.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/alexa.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/cows.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/eeg.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/hablame.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/latin.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/misc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/nomo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/proproctor.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/rinc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/slipmate.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/projects/swoop.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archetypes/cool.md" beforeDir="false" afterPath="$PROJECT_DIR$/archetypes/experience.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archetypes/portfolio.md" beforeDir="false" afterPath="$PROJECT_DIR$/archetypes/projects.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatar.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/avatar.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/4294967295-wikipedia.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/4294967295-wikipedia.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/_index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/college-happy-atlantic.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/college-happy-atlantic.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/cooper-hewitt.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/cooper-hewitt.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/frustrated-its-not-you-its-rust.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/frustrated-its-not-you-its-rust.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/github-loadimpact-k6-a-modern-lo.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/github-loadimpact-k6-a-modern-lo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/head-over-heels-a-song-by-tears.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/head-over-heels-a-song-by-tears.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/how-to-be-homeless-in-japan-yout.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/how-to-be-homeless-in-japan-yout.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/howland-trial.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/howland-trial.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/i-have-a-lot-to-say-about-signal.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/i-have-a-lot-to-say-about-signal.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/jigsaw.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/jigsaw.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/knuth-nytimes.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/knuth-nytimes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/manhattanize-palo-alto.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/manhattanize-palo-alto.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/movement-6-song-by-floating-poin.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/movement-6-song-by-floating-poin.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/music-august-22-2021.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/music-august-22-2021.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/music-december-8-2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/music-december-8-2020.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/music-july-22-2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/music-july-22-2020.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/music-july-31-2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/music-july-31-2020.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/music-october-20-2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/music-october-20-2020.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/music-september-2-2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/music-september-2-2020.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/music-september-21-2020.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/music-september-21-2020.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/music-you-might-like-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/music-you-might-like-3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/named-after-people.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/named-after-people.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/ok-google-play-music-by-drumkoon.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/ok-google-play-music-by-drumkoon.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/overcoming-tab-overload-carnegie.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/overcoming-tab-overload-carnegie.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/secure-ballots-crypto.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/secure-ballots-crypto.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/the-creepy-nyc-subway-system-in-1990.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/the-creepy-nyc-subway-system-in-1990.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/the-emoji-movie-plot.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/the-emoji-movie-plot.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/this-new-video-game-lets-you-do.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/this-new-video-game-lets-you-do.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/to-the-future-occupants-of-my-office-at-the-mit-media-lab.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/to-the-future-occupants-of-my-office-at-the-mit-media-lab.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/updating-dns-jvns.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/updating-dns-jvns.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/x.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/x.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/youve-got-nothing-to-lose-kiwanuka.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/youve-got-nothing-to-lose-kiwanuka.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cool/коробейники-р-н-п-степан-филиппов.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/experience/коробейники-р-н-п-степан-филиппов.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/letter.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/letter.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/projects/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/a17t.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/andover.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/chinese-censorship-ip.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/first-look-media.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/more-projects.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/more-research.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/more-skills.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/more-work.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/news-catalyst.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/open-source.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/politics.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/polititweet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/politiwatch.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/privacyspy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/programming.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/recurse.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/russian-disinformation-ip.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/shynet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/stanford.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/synthetic-disinformation-kreps.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/visual-design.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/portfolio/whoaremyrepresentatives.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/posts/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/a17t-tailwindcss.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/are-you-a-robot/images/blocked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/are-you-a-robot/images/bouncer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/are-you-a-robot/images/dist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/are-you-a-robot/images/distances_empirical.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/are-you-a-robot/images/distances_real.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/are-you-a-robot/images/ks_demo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/are-you-a-robot/images/ks_dist.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/are-you-a-robot/images/ks_uni.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/are-you-a-robot/images/uni.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/are-you-a-robot/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/copyright-abuse-tanzania.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/corporate-open-source.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/goodbye-old-posts.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/kubernetes-complexity.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/mcip-hello-world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/mcip-programming-fundamentals.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/music-post-generator.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/parse-time-scopes.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/shynet-had-a-security-issue-because-i-misunderstood-cors.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/shynet-never-sass.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/slicing-pi/calc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/slicing-pi/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/spot-the-error-on-the-nutrition-label/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/spot-the-error-on-the-nutrition-label/quaker_nutrition_label.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/used-a-cdn-wamr.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/posts/wasnt-on-localhost.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/head.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="26ioPfh07GJ3w1XvuARKvpEuzr2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/projects" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/projects" />
+      <recent name="$PROJECT_DIR$/content/posts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/experience" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7977a302-db5d-4708-b61a-bd909a28f43a" name="Changes" comment="" />
+      <created>1647915744463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647915744463</updated>
+      <workItem from="1647915746406" duration="15926000" />
+      <workItem from="1648183495175" duration="936000" />
+      <workItem from="1648312052668" duration="4503000" />
+      <workItem from="1648323207636" duration="5576000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
