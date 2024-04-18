@@ -11,5 +11,9 @@
   },
   "dependencies": {
     "alpinejs": "^3.2.4"
+  },
+  "scripts": {
+  "install-hugo": "npm install -g gohugoio/hugo-installer",
+  "build": "npm run install-hugo && hugo --gc"
   }
 }
